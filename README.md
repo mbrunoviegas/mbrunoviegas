@@ -1,16 +1,21 @@
-### Hi there 👋
+### Oi! Eu sou o Marcelo! 🐉
 
-<!--
-**mbrunoviegas/mbrunoviegas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  <a href="https://github.com/mbrunoviegas">
+  <img height=180px src="https://github-readme-stats.vercel.app/api?username=mbrunoviegas&show_icons=true&count_private=true&theme=ocean_dark&include_all_commits=true"/>
+  <img height=180px src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbrunoviegas&layout=compact&theme=ocean_dark"/>  
+</div>
+  
+<div style="display: inline_block"><br>
+  <img align="center" alt="Marcelo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Marcelo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Marcelo-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
+  <img align="center" alt="Marcelo-Nestjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg">
+</div> 
+  
+<br>
 
-Here are some ideas to get you started:
+ 
+- 🔭 Atualmente trabalho com desenvolvimento back-end
+- 🌱 Estou estudando Nodejs, Nestjs, Docker e AWS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
