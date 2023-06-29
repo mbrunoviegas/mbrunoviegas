@@ -1,4 +1,3 @@
-### Oi! Eu sou o Marcelo! 🐉
 
 <div>
   <a href="https://github.com/mbrunoviegas">
@@ -14,8 +13,3 @@
 </div> 
   
 <br>
-
- 
-- 🔭 Atualmente trabalho com desenvolvimento back-end
-- 🌱 Estou estudando Nodejs, Nestjs, Docker e AWS
-
